@@ -1,0 +1,48 @@
+h1 {
+    color: navy;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+li {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+img {
+    height: 400px;
+    box-align: center; 
+    padding: 20px;
+}
+
+nav {
+    display: block;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center; 
+}
+
+a {
+    text-decoration: none;
+}
+
+.column {
+    text-align: center;
+}
+
+.column2 {
+    float: left;
+    width: 50%;
+}
+
+.column3 {
+    float: right;
+    width: 50%;
+}
+
