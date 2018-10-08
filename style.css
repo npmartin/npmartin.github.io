@@ -1,19 +1,14 @@
 h1 {
-    color: navy;
-    font-family: 'Oswald', sans-serif;
+    color: black;
     text-decoration: underline;
+    font-family: 'Anton', sans-serif;
 }
-
 h2 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 p {
-    font-family: 'Open Sans Condensed', sans-serif;
-}
-
-li {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 img {
@@ -22,27 +17,10 @@ img {
     padding: 20px;
 }
 
-nav {
-    display: block;
-    font-family: 'Open Sans Condensed', sans-serif;
-    text-align: center; 
+.navbar-brand {
+    font-family: 'Anton', sans-serif;
 }
 
-a {
-    text-decoration: none;
+.nav-link {
+    font-family: 'Quicksand', sans-serif;
 }
-
-.column {
-    text-align: center;
-}
-
-.column2 {
-    float: left;
-    width: 50%;
-}
-
-.column3 {
-    float: right;
-    width: 50%;
-}
-
