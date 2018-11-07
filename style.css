@@ -1,10 +1,10 @@
 h1 {
     color: grey;
     text-decoration: none;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Slab', serif;
 }
 h2 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Slab', serif;
 }
 
 p {
@@ -18,7 +18,7 @@ img {
 }
 
 .navbar-brand {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Slab', serif;
 }
 
 .nav-link {
